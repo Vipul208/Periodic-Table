@@ -2099,7 +2099,7 @@ class _listState extends State<list> {
             color: Colors.purpleAccent[200],
             child: ListTile(
               title: Text(
-                'Ts              Tennessine',
+                'Tc              Tennessine',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
               ),
               onTap: () {
